@@ -1,0 +1,5 @@
+com\emergentes\controlador\Estudiante.class
+com\emergentes\controlador\EstudianteCobtrolador.class
+com\emergentes\dao\EstudianteDAO.class
+com\emergentes\dao\EstudianteDAOimp.class
+com\emergentes\utiles\ConexionBD.class
